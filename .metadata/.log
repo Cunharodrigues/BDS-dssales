@@ -168,3 +168,33 @@ java.util.concurrent.TimeoutException
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-08-03 15:36:36.712
 !MESSAGE executing callback sts4.classpath.hcKevkDW SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-08-05 12:13:11.738
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-08-05 12:13:11.753
+!MESSAGE classpath=98 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-08-05 12:13:11.762
+!MESSAGE buffering callback sts4.classpath.hcKevkDW backend false 98
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-08-05 12:13:11.763
+!MESSAGE executing callback sts4.classpath.hcKevkDW 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-08-05 12:13:12.006
+!MESSAGE executing callback sts4.classpath.hcKevkDW SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-08-05 12:13:13.797
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-08-05 12:13:13.807
+!MESSAGE classpath=98 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-08-05 12:13:13.817
+!MESSAGE buffering callback sts4.classpath.hcKevkDW backend false 98
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-08-05 12:13:13.818
+!MESSAGE executing callback sts4.classpath.hcKevkDW 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-08-05 12:13:14.152
+!MESSAGE executing callback sts4.classpath.hcKevkDW SUCCESS [done]

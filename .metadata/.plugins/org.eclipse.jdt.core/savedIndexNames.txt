@@ -38,7 +38,6 @@ INDEX VERSION 1.131+C:\Temp\dssales\.metadata\.plugins\org.eclipse.jdt.core
 1017955742.index
 1579798218.index
 1384368653.index
-1965174767.index
 1458266320.index
 1278997389.index
 3714959153.index
