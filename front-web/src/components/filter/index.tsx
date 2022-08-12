@@ -46,9 +46,9 @@ function Filter({ onFilterChange }: Props) {
       />
       <select className="filter-input" value={gender} onChange={onChangeGender}>
         <option value="">Selecione um gênero</option>
-        <option value="Male">Masculino</option>
+        <option value="MALE">Masculino</option>
         <option value="FEMALE">Feminino</option>
-        <option value="OTHER">Outros</option>
+        <option value="OTHER">Outro</option>
       </select>
     </div>
   );
